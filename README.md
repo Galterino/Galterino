@@ -23,5 +23,6 @@
 ---
 
 ### ⏱️ WakaTime Stats
-[WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Galterino&range=all_time&theme=dark)
+
+<figure><embed src="https://wakatime.com/share/@Galterino/b225f5f7-cdb0-440e-b389-006c91da7b17.svg"></embed></figure>
 
