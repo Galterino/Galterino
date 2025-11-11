@@ -11,7 +11,7 @@
 
 ### 📫 Contact me:
 <p align="center">
-  <a href="https://t.me/Galterino"><img src="https://skillicons.dev/icons?i=tg" /></a>
+  <a href="https://t.me/Galterino"><img src="https://skillicons.dev/icons?i=telegram" /></a>
 </p>
 
 ---
