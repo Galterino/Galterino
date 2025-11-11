@@ -23,5 +23,5 @@
 ---
 
 ### ⏱️ WakaTime Stats
-[WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&range=all_time&theme=dark)
+[WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Galterino&range=all_time&theme=dark)
 
