@@ -20,4 +20,8 @@
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galterino&layout=compact&theme=dark)
 
+---
+
+### ⏱️ WakaTime Stats
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Galterino&theme=dark)
 
