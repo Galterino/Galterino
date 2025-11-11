@@ -1,22 +1,17 @@
 <h1 align="center">Hi, I'm Galterino 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue" alt="Profile views" />
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Wakatime" />
-</p>
-
 ---
 
 ### 🧠 My knowledge base
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,docker,git,linux,pycharm" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,git,linux,pycharm" />
 </p>
 
 ---
 
 ### 📫 Contact me:
 <p align="center">
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Galterino"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
