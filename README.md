@@ -11,7 +11,7 @@
 
 ### 📫 Contact me:
 <p align="center">
-  <a href="https://t.me/Galterino"><img src="https://skillicons.dev/icons?i=telegram](https://images.icon-icons.com/2530/PNG/512/telegram_button_icon_151837.png)" /></a>
+  <a href="https://t.me/Galterino"><img src="https://skillicons.dev/icons?i=telegram](https://images.icon-icons.com/2530/PNG/512/telegram_button_icon_151837.png" /></a>
   <a href="mailto:denis.tikhonov.82@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
