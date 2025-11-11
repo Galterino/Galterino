@@ -23,5 +23,5 @@
 ---
 
 ### ⏱️ WakaTime Stats
-<a href="https://wakatime.com/badge/user/611a9ed1-e314-4953-aac9-92f84b8e137a/project/1d78162b-a1e8-421f-b2d2-621a6511ba11"><img src="https://wakatime.com/badge/user/611a9ed1-e314-4953-aac9-92f84b8e137a/project/1d78162b-a1e8-421f-b2d2-621a6511ba11.svg" alt="wakatime"></a>
+[WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&range=all_time&theme=dark)
 
