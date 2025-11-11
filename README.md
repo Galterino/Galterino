@@ -12,7 +12,7 @@
 ### 📫 Contact me:
 <p align="center">
   <a href="https://t.me/Galterino"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:denis.tikhonov.82@gmail.com"><img src="https://img.shields.io/badge/Gmail-2CA5E0?style=for-the-badge&logo=gmail&logoColor=gray" /></a>
+  <a href="mailto:denis.tikhonov.82@gmail.com"><img src="https://img.shields.io/badge/Gmail-fe0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
