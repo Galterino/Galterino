@@ -26,3 +26,5 @@
 
 ![WakaTime Stats](https://wakatime.com/share/@Galterino/fe586ca8-f9bf-49fb-a0d3-9e7a4c202d65.svg)
 
+[![wakatime](https://wakatime.com/badge/user/<Galterino>.svg)](https://wakatime.com/@<your-username>)
+
